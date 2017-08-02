@@ -19,6 +19,7 @@ Download a GIT Client. (A GIT client will let you pull down sync up code between
 
 Email don-E -dmerson@email.arizona.com to add you as a contributor of this repository and you can edit items to this repository.
 
+[Good sources for learning Git](https://help.github.com/articles/git-and-github-learning-resources/)
 
 #Resources
 ## Programming Environments
