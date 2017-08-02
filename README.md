@@ -17,7 +17,7 @@ Download a GIT Client. (A GIT client will let you pull down sync up code between
 
 [Windows Clients](https://git-scm.com/download/gui/windows)
 
-Email don-E -dmerson@email.arizona.com to add you as a member of this repository and you can edit items to this repository.
+Email don-E -dmerson@email.arizona.com to add you as a contributor of this repository and you can edit items to this repository.
 
 
 #Resources
